@@ -1,8 +1,8 @@
 {
   "sourceRepository": "https://github.com/Nishix03/TerraSonic-NASA-Space-APPS",
   "sourceBranch": "piero-mejoras",
-  "sourceCommit": "c4f7aca45b1c8aabcd6bbf46918e4e08cc728e20",
-  "preparedAt": "2026-11-13T14:52:57.676222+00:00",
+  "sourceCommit": "9c385358604f861d9af7dfe7ac032f330df7eaf2",
+  "preparedAt": "2026-11-13T16:15:45.473799+00:00",
   "builderSha256": "3e3e6fbbdd7945e12e702a2ab3cc716b023bfe59f8f30032b39d435146542fb8",
-  "indexSha256": "4e89a5db6c675b9d477dd5d1059d5c96d6055ea17ac2f77ceb9bcd93db92fd27"
+  "indexSha256": "910ff229be45757aaa5fa12c37d4e745d0a406e1c9e20c10b83d08e7e86d61e4"
 }
