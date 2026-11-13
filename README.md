@@ -1,6 +1,6 @@
 # TerraSonic · vista independiente de revisión
 
-Copia estática de [piero-mejoras](https://github.com/Nishix03/TerraSonic-NASA-Space-APPS/tree/ae859222721b655a9288ff745ad366fac4f0f03c), commit `ae859222721b655a9288ff745ad366fac4f0f03c`.
+Copia estática de [piero-mejoras](https://github.com/Nishix03/TerraSonic-NASA-Space-APPS/tree/e28c31f900103db54ef1885748ceb79f040f7f8b), commit `e28c31f900103db54ef1885748ceb79f040f7f8b`.
 
 No reemplaza la [web oficial](https://nishix03.github.io/TerraSonic-NASA-Space-APPS/). Las fuentes, créditos, pruebas y límites están en el repositorio original. No acredita certificación WCAG ni aprobación cultural.
 
